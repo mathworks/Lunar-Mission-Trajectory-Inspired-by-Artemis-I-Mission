@@ -1,4 +1,4 @@
-# Artemis I Inspired Mission
+# Lunar Mission Trajectory MATLAB Code Inspired by the Artemis I Mission
 
 Inspired by Orion and the Artemis I mission, this example simulates a lunar mission trajectory in MATLAB® and Simulink®.  The example begins shortly after Trans-Lunar Injection (TLI) on November 16 2022, and models Outbound Powered Flyby (OPF), Distant Retrograde Orbit (DRO) insertion and departure, and Return Powered Flyby (RPF).  The example uses point-mass Earth and moon gravitational models and JPL Ephemeris table DE405 for moon position.
 
