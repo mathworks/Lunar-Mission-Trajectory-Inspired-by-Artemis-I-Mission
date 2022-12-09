@@ -14,7 +14,7 @@ To run the example:
 1) Make sure lunarMissionModel.slx and lunarMission.mlx are in the current working folder.
 2) Install ephemeris data (follow instructions provided here: https://www.mathworks.com/help/aerotbx/ug/install-data-for-aerospace-products.html).
 3) In MATLAB R2022b or later, run the live script lunarMission.mlx.
-4) After the live script executes, a satellite scenario viewer will be launched to visualize the mision trajectory. You can interact with the viewer in the following ways:
+4) After the live script executes, a satellite scenario viewer will be launched to visualize the mission trajectory. You can interact with the viewer in the following ways:
    - Use the playback controls located at the bottom of the satellite scenario viewer window to control the playback speed and direction.
    - Left-click and hold anywhere inside the satellite scenario viewer window to pan the camera.
    - Adjust the zoom level using the scroll wheel.
